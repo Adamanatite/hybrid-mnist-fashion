@@ -7,4 +7,4 @@ The Jupyter notebook contains:
 * An application of the combined network for removing binary thresholding on MNIST fashion images (restoring images made up of pixels which are either black or white) and classifying.
 * Hyperparameter tuning and network architecture at each of the previous stages to maximise performance
 * Various data visualisations of network performance and the effect of different hyperparameters and network architectures
-* Explanations of results after each stage
+* Written explanations of methodology of results after each stage
